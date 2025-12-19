@@ -1,3 +1,5 @@
+Day1 
+
 A command-line calculator built using Python that performs basic arithmetic operations based on user input.
 
 Operations Supported :-
